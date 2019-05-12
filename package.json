@@ -1,0 +1,31 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tellomp/liri-node-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tellomp/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/tellomp/liri-node-app#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "colors": "^1.3.3",
+    "commnader": "0.0.1-security",
+    "dotenv": "^8.0.0",
+    "fs": "0.0.1-security",
+    "inquirer": "^6.3.1",
+    "key": "^0.1.11",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.1.1"
+  }
+}
