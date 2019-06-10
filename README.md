@@ -28,10 +28,10 @@
 
 * The node ``` liri.js do-what-it-says``` command outputs data for the song 'I Want it That Way.' Using the fs Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
 
-*** App Demo
+### App Demo
 * Click here to view a demonstration of the app! 
 
-*** Technologies
+### Technologies
 * Javascript
 * Node.js
 * Spotify API
