@@ -6,9 +6,9 @@
 * LIRI searches Spotify for songs, Bands in Town for concerts, and OMDB for movies.
 
 ### Instructions
-** After node.js command is ran by the user, a menu of all the command line options is shown.  
+** After  node.js command is ran by the user, a menu of all the command line options is shown.  
 
-** The ''' node liri.js concert <artist/band name here> ''' searches the Bands in Town Artist Events API for search and renders the name of the venue, venue location, and date of the event to the terminal. 
+** The ``` node liri.js concert <artist/band name here> ``` searches the Bands in Town Artist Events API for search and renders the name of the venue, venue location, and date of the event to the terminal. 
 
 
 
