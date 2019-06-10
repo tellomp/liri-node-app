@@ -15,7 +15,7 @@
 ** If no song is provided then your program will default to "Same Old Blues" by Phantogram
 
 * node ```liri.js movie '<movie name here>' ```  searches the OMDB API for the user input and renders the following to the terminal:
-   ** Title of the movie.
+   ..* Title of the movie.
    ** Year the movie came out.
    ** IMDB Rating of the movie.
    ** Rotten Tomatoes Rating of the movie.
