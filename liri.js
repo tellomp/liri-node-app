@@ -70,6 +70,7 @@ function movieLookup(movie) {
             console.log(colors.cyan("\n Movie name: " + response.data.Title))
             console.log(colors.cyan("Release Year: " + response.data.Year))
             console.log(colors.cyan("Rated: " + response.data.Rated))
+            console.log(colors.cyan("Rotten Tomato: " + response.data.Ratings[1].Value))
             console.log(colors.cyan("Language: " + response.data.Language))
             console.log(colors.cyan("Country:" + response.data.Country))
             console.log(colors.cyan("Plot: " + response.data.Plot))
