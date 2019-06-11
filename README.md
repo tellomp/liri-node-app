@@ -9,7 +9,7 @@
 * After  node.js command is ran by the user, a menu of all the command line options is shown. 
 ![alt text][clMenu]
 
-[clMenu]: https://github.com/tellomp/liri-node-app/images/clMenu.png "Command Line Menu"
+[clMenu]: https://github.com/tellomp/liri-node-app/blob/master/images/clMenu.png "Command Line Menu"
 
 
 * The ``` node liri.js concert <artist/band name here> ``` command searches the Bands in Town Artist Events API for the user input and renders the name of the venue, venue location, and date of the event to the terminal. 
