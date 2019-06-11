@@ -8,7 +8,7 @@
 ### Requirements and Instructions
 * After  node.js command is ran by the user, a menu of all the command line options is shown.  
 
-* The ``` node liri.js concert <artist/band name here> ``` command searches the Bands in Town Artist Events API for the user input and renders the name of the venue, venue location, and date of the event to the terminal. 
+* The ``` diff - node liri.js concert <artist/band name here> ``` command searches the Bands in Town Artist Events API for the user input and renders the name of the venue, venue location, and date of the event to the terminal. 
 
 * The ```node liri.js spotify '<song name here>' ``` command searches the Spotify API for the user input and renders the artist, the song's name, a preview link of the song from Spotify, and the album that the song is from.
 
