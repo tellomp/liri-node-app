@@ -36,9 +36,9 @@ function spotifyThis(spotifySearch) {
         id: keys.spotify.id,
         secret: keys.spotify.secret
     });
-    //  * If no song is provided then your program will default to "Same Old Blues" by Phantogram.
+    //  * If no song is provided then your program will default to "Bohemian Rhapsody" by Queen
     if (spotifySearch === undefined || null) {
-        spotifySearch = "Same Old Blues Phantogram";
+        spotifySearch = "Bohemian Rhapsody";
     }
     spotify.search({ type: 'track', query: spotifySearch }, function (err, data) {
         if (err) {
