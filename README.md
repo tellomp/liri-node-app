@@ -7,7 +7,7 @@
 
 ### Requirements and Instructions
 * After  node.js command is ran by the user, a menu of all the command line options is shown. 
-![Image of command_line_menu](tellomp/liri-node-app/images/Screen Shot 2019-06-10 at 11.35.41 PM.png)
+![Image of command_line_menu](https://github.com/tellomp/liri-node-app/images/Screen Shot 2019-06-10 at 11.35.41 PM.png)
 
 * The ``` node liri.js concert <artist/band name here> ``` command searches the Bands in Town Artist Events API for the user input and renders the name of the venue, venue location, and date of the event to the terminal. 
 
