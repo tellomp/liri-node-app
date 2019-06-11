@@ -6,7 +6,8 @@
 * LIRI searches Spotify for songs, Bands in Town for concerts, and OMDB for movies.
 
 ### Requirements and Instructions
-* After  node.js command is ran by the user, a menu of all the command line options is shown.  
+* After  node.js command is ran by the user, a menu of all the command line options is shown. 
+
 
 * The ``` node liri.js concert <artist/band name here> ``` command searches the Bands in Town Artist Events API for the user input and renders the name of the venue, venue location, and date of the event to the terminal. 
 
@@ -28,7 +29,6 @@
 
 * The node ``` liri.js do-what-it-says``` command outputs data for the song 'I Want it That Way.' Using the fs Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
 
- `node liri.js concert-this <artist/band name here>`
 
 ### App Demo
 * Click here to view a demonstration of the app! 
