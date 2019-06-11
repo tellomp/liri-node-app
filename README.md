@@ -16,9 +16,21 @@
 
 * The ``` node liri.js concert <artist/band name here> ``` command searches the Bands in Town Artist Events API for the user input and renders the name of the venue, venue location, and date of the event to the terminal. 
 
+
+![alt text][concert]
+
+[concer]: https://github.com/tellomp/liri-node-app/blob/master/images/concert.png "Command Line Concert"
+
+
 * The ```node liri.js spotify '<song name here>' ``` command searches the Spotify API for the user input and renders the artist, the song's name, a preview link of the song from Spotify, and the album that the song is from.
 
-* If no song is provided then your program will default to "Same Old Blues" by Phantogram
+
+![alt text][spotify]
+
+[concert]: https://github.com/tellomp/liri-node-app/blob/master/images/spotify.png "Command Line spotify"
+
+
+* If no song is provided then your program will default to "Bohemian Rhapsody" by Queen
 
 * node ```liri.js movie '<movie name here>' ``` command searches the OMDB API for the user input and renders the following to the terminal:  
   * Title of the movie.
@@ -29,11 +41,18 @@
   * Language of the movie.
   * Plot of the movie.
   * Actors in the movie.
+  
+  
+![alt text][movie]
 
-* If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
+[movie]: https://github.com/tellomp/liri-node-app/blob/master/images/movie.png "Command Line movie"
+
 
 * The node ``` liri.js do-what-it-says``` command outputs data for the song 'I Want it That Way.' Using the fs Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
 
+![alt text][justDoIt]
+
+[justDoIt]: https://github.com/tellomp/liri-node-app/blob/master/images/doWhatItSays.png "Command Line do-what-it-says"
 
 ### App Demo
 * Click here to view a demonstration of the app! 
