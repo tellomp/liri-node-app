@@ -7,6 +7,8 @@
 
 ### Requirements and Instructions
 * After  node.js command is ran by the user, a menu of all the command line options is shown. 
+
+
 ![alt text][clMenu]
 
 [clMenu]: https://github.com/tellomp/liri-node-app/blob/master/images/clMenu.png "Command Line Menu"
